@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildbypankaj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/buildbypankaj/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/buildbypankaj/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/buildbypankaj/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/buildbypankaj/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/buildbypankaj/LeetCode/tree/master/0344-reverse-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/buildbypankaj/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/buildbypankaj/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/buildbypankaj/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/buildbypankaj/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/buildbypankaj/LeetCode/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/buildbypankaj/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildbypankaj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/buildbypankaj/LeetCode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/buildbypankaj/LeetCode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
