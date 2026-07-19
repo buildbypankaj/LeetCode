@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/buildbypankaj/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/buildbypankaj/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/buildbypankaj/LeetCode/tree/master/0344-reverse-string) |
+| [3913-sort-vowels-by-frequency](https://github.com/buildbypankaj/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -58,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/buildbypankaj/LeetCode/tree/master/0169-majority-element) |
+| [3913-sort-vowels-by-frequency](https://github.com/buildbypankaj/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/buildbypankaj/LeetCode/tree/master/0169-majority-element) |
+| [3913-sort-vowels-by-frequency](https://github.com/buildbypankaj/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
