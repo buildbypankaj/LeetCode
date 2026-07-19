@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/buildbypankaj/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/buildbypankaj/LeetCode/tree/master/0169-majority-element) |
 | [3912-valid-elements-in-an-array](https://github.com/buildbypankaj/LeetCode/tree/master/3912-valid-elements-in-an-array) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/buildbypankaj/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k](https://github.com/buildbypankaj/LeetCode/tree/master/3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) |
 ## String
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k](https://github.com/buildbypankaj/LeetCode/tree/master/3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) |
+## Greedy
+|  |
+| ------- |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/buildbypankaj/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
