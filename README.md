@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/buildbypankaj/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/buildbypankaj/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/buildbypankaj/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0344-reverse-string](https://github.com/buildbypankaj/LeetCode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/buildbypankaj/LeetCode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/buildbypankaj/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
