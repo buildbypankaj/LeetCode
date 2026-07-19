@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/buildbypankaj/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/buildbypankaj/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/buildbypankaj/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/buildbypankaj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/buildbypankaj/LeetCode/tree/master/0169-majority-element) |
 | [3912-valid-elements-in-an-array](https://github.com/buildbypankaj/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/buildbypankaj/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/buildbypankaj/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/buildbypankaj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/buildbypankaj/LeetCode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/buildbypankaj/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/buildbypankaj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
