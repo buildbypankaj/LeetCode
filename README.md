@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/buildbypankaj/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/buildbypankaj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/buildbypankaj/LeetCode/tree/master/0169-majority-element) |
+| [1260-shift-2d-grid](https://github.com/buildbypankaj/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3912-valid-elements-in-an-array](https://github.com/buildbypankaj/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/buildbypankaj/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k](https://github.com/buildbypankaj/LeetCode/tree/master/3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) |
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/buildbypankaj/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/buildbypankaj/LeetCode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/buildbypankaj/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
