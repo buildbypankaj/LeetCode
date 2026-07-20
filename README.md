@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/buildbypankaj/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/buildbypankaj/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/buildbypankaj/LeetCode/tree/master/0344-reverse-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/buildbypankaj/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3913-sort-vowels-by-frequency](https://github.com/buildbypankaj/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Trie
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/buildbypankaj/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/buildbypankaj/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Binary Search
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/buildbypankaj/LeetCode/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/buildbypankaj/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Database
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/buildbypankaj/LeetCode/tree/master/1260-shift-2d-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/buildbypankaj/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
