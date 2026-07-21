@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/buildbypankaj/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/buildbypankaj/LeetCode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/buildbypankaj/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/buildbypankaj/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3913-sort-vowels-by-frequency](https://github.com/buildbypankaj/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Trie
 |  |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/buildbypankaj/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/buildbypankaj/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
